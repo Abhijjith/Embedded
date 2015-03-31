@@ -102,7 +102,7 @@ if(n<10000) {
     ADCdata = ADC0_In();
   }
 }
-// once the ADC is operational, main2 is used to debug the convert to distance
+// main2 is used to debug the convert to distance
 int main2(void){ 
   TExaS_Init(ADC0_AIN1_PIN_PE2, SSI0_Real_Nokia5110_NoScope);
   ADC0_Init();    // initialize ADC0, channel 1, sequencer 3
