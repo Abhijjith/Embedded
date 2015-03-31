@@ -1,6 +1,6 @@
 // ***** 0. Documentation Section *****
 // TableTrafficLight.c for Lab 10
-// Runs on LM4F120/TM4C123
+// Runs on TM4C123
 // Index implementation of a Moore finite state machine to operate a traffic light.  
 
 
